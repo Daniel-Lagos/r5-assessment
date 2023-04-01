@@ -1,4 +1,4 @@
-# r5-assessment
+# R5-assessment
 
 ## Getting Started
 
