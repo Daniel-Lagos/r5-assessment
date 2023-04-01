@@ -1,0 +1,22 @@
+.input-content {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.root {
+  color: white;
+}
+
+.root fieldset {
+  border-color: white !important;
+}
+
+.root label {
+  color: white !important;
+}
+
+.button:disabled{
+  background-color: #c0c0c0 !important;
+  color: #808080 !important;
+}
