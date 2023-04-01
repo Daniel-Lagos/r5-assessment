@@ -12,6 +12,14 @@ brew install pnpm
 
 In other hand, you could check the guide [pnpm](https://docs.volta.sh/guide/getting-started).
 
+You can install the packages with:
+
+```bash
+ npm install
+ yarn add
+ pnpm install
+```
+
 <br>
 Second, run the development server:
 
@@ -23,7 +31,5 @@ pnpm dev
 
 ---
 
-- [vitest](https://vitest.dev/)
-- [react testing library](https://testing-library.com/docs/react-testing-library/intro/)
 - [vitejs dev](https://vitejs.dev/)
 - [pnpm package](https://pnpm.io/)
